@@ -1,0 +1,216 @@
+BO3 Gobblegums By DexusModding
+
+----- WEAPONS : -----
+
+KN-44
+Hex Code : 78
+Decimal : 120
+———————————————
+Weevil
+Hex Code : 73
+Decimal : 115
+———————————————
+MR6
+Hex Code : 1
+Decimal : 1
+———————————————
+RK5
+Hex Code : 2
+Decimal : 2
+———————————————
+L-CAR 9
+Hex Code : 3
+Decimal : 3 
+———————————————
+Marshal 16
+Hex Code : 8 
+Decimal : 8
+———————————————
+Kuda
+Hex Code : A
+Decimal : 10
+———————————————
+Pharo
+Hex Code : A1
+Decimal : 11
+———————————————
+Vesper
+Hex Code : A2
+Decimal : 12
+———————————————
+Razorback
+Hex Code : A3 
+Decimal : 13
+———————————————
+VMP
+Hex Code : A4
+Decimal : 14
+———————————————
+Ak74-u
+Hex Code : A6
+Decimal : 16
+———————————————
+ICR-1
+Hex Code : 15
+Decimal : 21
+———————————————
+HVK-30
+Hex Code : 16
+Decimal : 22
+———————————————
+Man-o-War
+Hex Code : 18
+Decimal : 24
+———————————————
+M8A7
+Hex Code : 19
+Decimal : 25
+———————————————
+Sheiva
+Hex Code : 1A
+Decimal : 26
+———————————————
+MX Garand
+Hex Code : 
+Decimal : 28
+———————————————
+Dingo
+Hex Code : 
+Decimal : 30
+———————————————
+Dredge 48
+Hex Code : 
+Decimal : 31
+———————————————
+BRM
+Hex Code : 
+Decimal : 32
+———————————————
+Gorgon
+Hex Code : 
+Decimal : 33
+———————————————
+Locus
+Hex Code : 
+Decimal : 40 
+———————————————
+Drakon
+Hex Code : 
+Decimal : 41
+———————————————
+SVG-100
+Hex Code : 
+Decimal : 42
+———————————————
+P-06
+Hex Code : 
+Decimal : 43
+———————————————
+1911
+Hex Code : 
+Decimal : 48
+———————————————
+Haymaer 12
+Hex Code : 
+Decimal : 50
+———————————————
+Argus
+Hex Code : 
+Decimal : 51
+———————————————
+KRM-262
+Hex Code : 
+Decimal : 52
+———————————————
+Brecci 205
+Hex Code : 
+Decimal : 53
+———————————————
+XM-53
+Hex Code : 
+Decimal : 58
+———————————————
+PPSH
+Hex Code : 
+Decimal : 73
+———————————————
+Knife
+Hex Code : 
+Decimal : 99
+
+----- GOBBLEGUMS : -----
+
+Gobblegum : Aftertaste 
+Hex Code : D8
+Decimal : 216
+———————————————
+Gobblegum : Cache Back 
+Hex Code : DA
+Decimal : 218
+———————————————
+Gobblegum : Dead Of Nuclear Winter 
+Hex Code : DB
+Decimal : 219
+———————————————
+Gobblegum : Immolation Liquidation  
+Hex Code : DE
+Decimal : 222
+———————————————
+Gobblegum : Kill Joy
+Hex Code : DF
+Decimal : 223
+———————————————
+Gobblegum : Perkaholic 
+Hex Code : E3
+Decimal : 227
+———————————————
+Gobblegum : On the house
+Hex Code : E2
+Decimal : 226
+———————————————
+Gobblegum : Shopping Free 
+Hex Code : F5
+Decimal : 245
+———————————————
+Gobblegum : Reign Drops
+Hex Code : C0
+Decimal : 192
+———————————————
+Gobblegum : Round Robbin
+Hex Code : FC
+Decimal : 252
+———————————————
+Gobblegum : Extra Credit
+Hex Code : C5
+Decimal : 197
+———————————————
+Gobblegum : Soda Fountain
+Hex Code : BF
+Decimal : 191
+———————————————
+Gobblegum : Flavor Hexed
+Hex Code : C3
+Decimal : 195
+———————————————
+Gobblegum : Fatal Contraption
+Hex Code : EB
+Decimal : 235
+———————————————
+Gobblegum : Crate Power
+Hex Code : F2
+Decimal : 242
+———————————————
+Gobblegum : Phoenix Up
+Hex Code : E4
+Decimal : 228
+———————————————
+Gobblegum : Killing Time
+Hex Code : E0
+Decimal : 224
+———————————————
+
+MORE CODE WILL BE ADDED LATER !
+
+----- By Dexus / dexus_modding -----
+
+Thanks to IIHive for some codes 
